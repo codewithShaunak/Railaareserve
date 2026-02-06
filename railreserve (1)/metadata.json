@@ -1,0 +1,7 @@
+{
+  "name": "RailReserve",
+  "description": "A high-performance railway reservation system for Amaravati regional routes, featuring real-time seat tracking and intelligent booking assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
